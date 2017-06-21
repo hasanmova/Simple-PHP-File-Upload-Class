@@ -13,6 +13,8 @@ $up->uploadfile($_FILES['file']);
 
 ##thank you , for read bed typing english
 
+[خبر](http://www.jamehnews.com)
+
 
 
 
