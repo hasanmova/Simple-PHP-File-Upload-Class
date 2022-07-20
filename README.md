@@ -1,8 +1,8 @@
 upload
 ======
 
-php upload safely class , 
-
+php upload safe class , 
+Using easy uploading 
 ```php
 $format= array( 'image/jpeg' => 30000000 , 'image/gif' => 800000 , 'image/png' => 400000 ) ; //all format allow upload
 
@@ -11,9 +11,7 @@ $up->uploadfile($_FILES['file']);
 
 ```
 
-##thank you , for read bed typing english
 
-[خبر](http://www.jamehnews.com)
 
 
 
